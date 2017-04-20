@@ -1,0 +1,1 @@
+This code only works with the PCB. For soldered board kindly use the other one.

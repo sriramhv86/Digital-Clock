@@ -1,0 +1,1 @@
+This code is only for the soldered board. For PCB checkout the other one.
